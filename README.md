@@ -1,11 +1,6 @@
 # Grundlegende IT-Sicherheit für Privatanwender Publikation
 
----
-
 - [Deutsche seite zum ansehen](https://github.com/ITSicherheitPublikationen/stand-23.10.2018/blob/master/Internetsicherheit.pdf)
-
----
-
 - [Deutsche PDF Herunterladen](https://itsicherheitpublikationen.github.io/stand-23.10.2018/Internetsicherheit.pdf)
 - [Deutsche PUB Herunterladen](https://itsicherheitpublikationen.github.io/stand-23.10.2018/Internetsicherheit.pub)
 
